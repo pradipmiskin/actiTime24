@@ -12,9 +12,11 @@ do
   if(a%i==0)
 {
 System.out.println(i);
+    System.out.println(p);
 }
 i++;
 }
 while(i<=a);
+}
 }
 
